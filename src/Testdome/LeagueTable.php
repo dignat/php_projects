@@ -106,15 +106,15 @@ class LeagueTable
             //$rank = 1;
         }
        
-        var_dump($this->rankList);
+        //var_dump($this->rankList);
     }
 }
 
-$table = new LeagueTable(array('Mike', 'Chris', 'Arnold'));
-$table->recordResult('Mike', 2);
-$table->recordResult('Mike', 3);
-$table->recordResult('Arnold', 5);
-$table->recordResult('Chris', 5);
+// $table = new LeagueTable(array('Mike', 'Chris', 'Arnold'));
+// $table->recordResult('Mike', 2);
+// $table->recordResult('Mike', 3);
+// $table->recordResult('Arnold', 5);
+// $table->recordResult('Chris', 5);
 
-$table->createRankList();
-echo $table->playerRank(1);
+// $table->createRankList();
+// echo $table->playerRank(1);

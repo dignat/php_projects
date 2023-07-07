@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\MyTests\\FibTest::testFib":5},"times":{"Tests\\MyTests\\LeagueTableTest::testlegalScores":0,"Tests\\MyTests\\LeagueTableTest::testSameMaxScores":0,"Tests\\MyTests\\TreeTest::testNonNumeric":0,"Tests\\MyTests\\FibTest::testFib":0.003}}
